@@ -798,7 +798,7 @@ croppedIm.save(dirpath+"/dhd_col.png", "png", quality=100, optimize=True, progre
 # driver.get("http://Alim:alimerp@10.168.2.245:9081/Report?%2FSKFStockReport&rs:Format=EXCELOPENXML")
 # print("Download Complete! Make Happy Face :D ")
 
-driver.get('http://Royel:ro@123@skfonline.transcombd.com:9081/reports/browse/PHARMA/RnD%20(Only%20ERP)/Mail%20Automation%20Report')
+driver.get('http://Royel:ro@123@http://Royel:ro%40123@skfonline.transcombd.com:9081/reports/report/PHARMA/RnD%20(Only%20ERP)/Mail%20Automation%20Report/sum')
 print("Downloading Stock Report... ...")
 driver.get("http://Royel:ro@123@skfonline.transcombd.com:9081/reports/report/PHARMA/RnD%20(Only%20ERP)/Mail%20Automation%20Report/SKFStockReport:Format=EXCELOPENXML")
 print("Download Complete! Make Happy Face :D ")
@@ -809,9 +809,15 @@ driver.close()
 
 msgRoot = MIMEMultipart('related')
 me = 'erp-bi.service@transcombd.com'
-to = ['hislam@skf.transcombd.com', 'muhammad.mainuddin@tdcl.transcombd.com']
-cc = ['almamun@transcombd.com', 'tdclndm@tdcl.transcombd.com', 'tdclpharma@transcombd.com', 'monowar@tdcl.transcombd.com', 'mosaddek.hossain@skf.transcombd.com', 'monirul@skf.transcombd.com']
-bcc = ['biswascma@yahoo.com', 'bayezid@transcombd.com', 'zubair.transcom@gmail.com', 'yakub@transcombd.com', 'redwan@transcombd.com', 'tawhid@transcombd.com', 'rejaul.islam@transcombd.com']
+
+to = ['rejaul.islam@transcombd.com', '']
+cc = ['', '']
+bcc = ['', '']
+
+# to = ['hislam@skf.transcombd.com', 'muhammad.mainuddin@tdcl.transcombd.com']
+# cc = ['almamun@transcombd.com', 'tdclndm@tdcl.transcombd.com', 'tdclpharma@transcombd.com', 'monowar@tdcl.transcombd.com', 'mosaddek.hossain@skf.transcombd.com', 'monirul@skf.transcombd.com']
+# bcc = ['biswascma@yahoo.com', 'bayezid@transcombd.com', 'zubair.transcom@gmail.com', 'yakub@transcombd.com', 'redwan@transcombd.com', 'tawhid@transcombd.com', 'rejaul.islam@transcombd.com']
+
 recipient = to+cc+bcc
 
 # to = 'rejaul.islam@transcombd.com'
