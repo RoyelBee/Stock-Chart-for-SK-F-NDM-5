@@ -1,6 +1,7 @@
 # Stock-Chart-for-SK-F-NDM-5
 Overall Stock reports 
-<a href="https://ibb.co/NtM908k"><img src="https://i.ibb.co/mb39nLY/2.png" alt="2" border="0"></a>
+<a href="https://ibb.co/LJhX5RS"><img src="https://i.ibb.co/jWZPRfh/1.png" alt="1" border="0"></a>
+<a href="https://ibb.co/chmpN2x"><img src="https://i.ibb.co/F4PfB8n/2.png" alt="2" border="0"></a>
 <a href="https://ibb.co/GsnJBVB"><img src="https://i.ibb.co/ZHGJtht/3.png" alt="3" border="0"></a>
 <a href="https://ibb.co/Fzq8Pt6"><img src="https://i.ibb.co/YhTfrG2/4.png" alt="4" border="0"></a>
 <a href="https://ibb.co/4pYxZJG"><img src="https://i.ibb.co/3cMHykq/5.png" alt="5" border="0"></a>
@@ -19,4 +20,4 @@ Overall Stock reports
 <a href="https://ibb.co/0r2BCsQ"><img src="https://i.ibb.co/m4Tv9NS/18.png" alt="18" border="0"></a>
 <a href="https://ibb.co/kKxqrkH"><img src="https://i.ibb.co/CBzVXN1/19.png" alt="19" border="0"></a>
 <a href="https://ibb.co/DKBRgV7"><img src="https://i.ibb.co/F7QDqxB/20.png" alt="20" border="0"></a>
-<a href="https://ibb.co/ByLDBvG"><img src="https://i.ibb.co/Wkn9f70/21.png" alt="21" border="0"></a>
+<a href="https://ibb.co/ByLDBvG"><img src="https://i.ibb.co/Wkn9f70/21.png" alt="21" border="0"></a><br />
