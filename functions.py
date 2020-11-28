@@ -5,14 +5,14 @@ import numpy as np
 
 
 # connection = db.connect('DRIVER={SQL Server};'
-#                         'SERVER=10.168.2.241;'
+#                         'SERVER=-----------;'
 #                         'DATABASE=ARCHIVESKF;'
-#                         'UID=sa;PWD=erp')
+#                         'UID=-----;PWD=------')
 #  # 137.116.139.217
 connection = db.connect('DRIVER={SQL Server};'
-                        'SERVER=137.116.139.217;'
+                        'SERVER=------------;'
                         'DATABASE=ARCHIVESKF;'
-                        'UID=sa;PWD=erp@123')
+                        'UID=---;PWD=------')
 
 cursor = connection.cursor()
 
